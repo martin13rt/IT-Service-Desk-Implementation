@@ -32,3 +32,44 @@ Implementación y configuración realizadas, con pruebas funcionales y documenta
 
 Algunas automatizaciones están sujetas a las capacidades del licenciamiento utilizado.
 
+
+## 👨‍💻 Mi participación en el proyecto
+
+### Responsable único de implementación técnica
+
+**Diseño, configuración e implementación integral de un IT Service Desk mediante Jira Service Management, realizado de manera individual.**
+
+Fui el único responsable técnico de llevar a cabo la implementación de la solución, desde el análisis de los requerimientos operativos hasta la configuración de la plataforma, las pruebas funcionales y la documentación del proyecto.
+
+El proyecto se desarrolló desde cero, estableciendo los procesos, reglas de negocio y configuraciones necesarias para centralizar y administrar las solicitudes de soporte técnico.
+
+### 🛠️ Responsabilidades desarrolladas individualmente
+
+- Análisis de requerimientos y diseño funcional de la solución.
+- Configuración integral de Jira Service Management.
+- Diseño e implementación del catálogo de servicios.
+- Configuración del portal de autoservicio para usuarios corporativos.
+- Diseño y creación de workflows personalizados.
+- Implementación de procesos de escalamiento N1, N2 y N3.
+- Configuración de SLA, calendarios laborales y condiciones de pausa.
+- Diseño de matrices de impacto, urgencia y prioridad.
+- Configuración y validación de automatizaciones.
+- Administración de permisos y restricciones de acceso.
+- Ejecución de pruebas funcionales y corrección de errores.
+- Elaboración de documentación técnica y manuales de usuario.
+
+### 🎯 Alcance de mi responsabilidad
+
+La implementación técnica fue realizada individualmente, asumiendo la responsabilidad de diseñar, configurar, probar y documentar los componentes de la solución.
+
+El proyecto permitió aplicar conocimientos de análisis de sistemas, diseño de procesos, lógica de negocio, automatización y administración de plataformas empresariales.
+
+**Responsable técnico de implementación:** Martín Ramos
+
+**Modalidad de implementación:** Individual
+
+**Plataforma:** Jira Service Management
+
+**Año:** 2026
+
+
