@@ -11,6 +11,8 @@ La implementación se encuentra documentada en los siguientes apartados:
 | [Gestión de SLA](docs/sla.md) | Tiempos de respuesta, resolución, calendarios y condiciones de pausa. |
 | [Automatización de procesos](docs/automations.md) | Reglas de negocio, asignaciones y seguimiento de solicitudes. |
 | [Matriz de prioridades](docs/priority-matrix.md) | Clasificación de incidentes según impacto, urgencia y criticidad. |
+| [Arquitectura funcional](docs/architecture.md) | Diseño de componentes, integración funcional y procesos de atención del Service Desk. |
+
 
 ## 🔍 Metodología de implementación
 
